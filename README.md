@@ -8,10 +8,10 @@ C# / .NET 10, Windows Forms, GDI+ ve Windows Forms Timer.
 
 ## Kurulum ve çalıştırma
 
-Windows, Git ve .NET 10 SDK gerekir. Visual Studio kullanıyorsan **.NET masaüstü geliştirme** iş yükünü kur. Kendi GitHub kullanıcı adını aşağıdaki komutta yerine yaz.
+Windows, Git ve .NET 10 SDK gerekir. Visual Studio kullanıyorsan **.NET masaüstü geliştirme** iş yükünü kur.
 
 ```powershell
-git clone https://github.com/GITHUB_KULLANICI_ADI/YMH219-FlappyBird.git
+git clone https://github.com/ayhamhammoud1/YMH219-FlappyBird.git
 cd YMH219-FlappyBird
 ```
 
@@ -45,4 +45,4 @@ Yerel doğrulama: boşluk tuşu uçuşu başlattı, oyuncu yer çekimiyle düşt
 
 ## Öğrenci
 
-Ad soyad ve öğrenci numarası teslimden önce eklenecek.
+Ayham Nawaf Hammoud — 240541613
